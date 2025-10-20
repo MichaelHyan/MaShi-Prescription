@@ -1,5 +1,5 @@
 
-![](https://github.com/MichaelHyan/MaShi-Prescription/blob/main/file/logo.png)
+![](https://github.com/MichaelHyan/MaShi-Prescription/blob/main/files/logo.png)
 
 # 孙村医学院官方文档
 
@@ -16,13 +16,8 @@
 - 职  业：院士
 - 代表作品：《马氏老方》
 - 主要成就：HIV治疗过敏
--          杂交瘤细胞治疗AIDS
--          核污水治疗癌症
--          血液-乙醇替代疗法
--          哪疼割哪法
--          棉花治疗便秘
 
-![](https://github.com/MichaelHyan/MaShi-Prescription/blob/main/file/ntgn.png)
+![](https://github.com/MichaelHyan/MaShi-Prescription/blob/main/files/ntgn.png)
 
 ## 官方文档#1
 
@@ -144,7 +139,7 @@ AIDS具体病因为HIV病毒破坏免疫细胞有关受体抑制抗体释放，�
 
 而一种合适的选择就是三硝基甲苯。三硝基甲苯水解后产生硝酸根（NO3-）和氯酸根（Cl-），为强酸根，可以于酸性环境中的氢离子形成强酸。为了控制药物释放速度，提高患者的用药顺应性，我们将三硝基甲苯制成缓释制剂。合成路线如下图。
 
-![](https://github.com/MichaelHyan/MaShi-Prescription/blob/main/file/path.png)
+![](https://github.com/MichaelHyan/MaShi-Prescription/blob/main/files/path.png)
 
 幸运的是，现今工业可以大规模制备该药品，药品前景良好。
 
